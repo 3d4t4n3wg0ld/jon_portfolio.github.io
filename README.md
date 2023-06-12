@@ -16,4 +16,4 @@ Data Science, Msc
 *   Learning extensively Python as well as Pytorch library
 *   Interested in participating in ML research projects, shaping tomorrow using ML
 
-![Causality Graph!](causality graph.PNG "Causality Graph")
+![Causality Graph!](/causality graph.PNG "Causality Graph")
