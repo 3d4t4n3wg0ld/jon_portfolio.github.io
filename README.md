@@ -14,3 +14,5 @@ finacial analysis in forex market
 2.Kaggle competition enthusiast.
 3.Learning extensively Python as well as Pytorch library
 4.Interested in participating in ML research projects, shaping tomorrow using ML
+
+![](causality graph.PNG)
