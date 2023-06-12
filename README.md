@@ -7,6 +7,8 @@ Data Science, Msc
 finacial analysis in forex market
 
 ### Projects
-1.
+1.Experimenting with deep learning models
 2.
 3...
+
+Kaggle competition enthusiast.
