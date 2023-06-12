@@ -15,4 +15,4 @@ finacial analysis in forex market
 3.Learning extensively Python as well as Pytorch library
 4.Interested in participating in ML research projects, shaping tomorrow using ML
 
-![](causality graph.PNG)
+![](causality_graph.PNG)
