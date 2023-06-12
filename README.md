@@ -16,5 +16,5 @@ Data Science, Msc
 *   Learning extensively Python as well as Pytorch library
 *   Interested in participating in ML research projects, shaping tomorrow using ML
 
-![The Machine!](https://github.com/3d4t4n3wg0ld/jon_portfolio.github.io/blob/main/machine.PNG "The Machine")
+![The Machine!](https://github.com/3d4t4n3wg0ld/jon_portfolio.github.io/blob/main/machine.PNG)
 
