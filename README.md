@@ -16,4 +16,4 @@ Data Science, Msc
 *   Learning extensively Python as well as Pytorch library
 *   Interested in participating in ML research projects, shaping tomorrow using ML
 
-![Causality Graph!](https://github.com/3d4t4n3wg0ld/jon_portfolio.github.io/blob/main/causality%20graph.PNG "Causality Graph")
+![Causality Graph!](https://github.com/3d4t4n3wg0ld/jon_portfolio.github.io/blob/main/causality%20graph.PNG)
